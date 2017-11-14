@@ -1,7 +1,7 @@
 # Javascript practice.
 
 
-![Guessing game](guesses.png)
+![Guessing game](Guesses.png)
 
 
 A simple guessing game made with Javascript based on tutorial found on MDN
